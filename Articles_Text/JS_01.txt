@@ -1,0 +1,23 @@
+This is some links that I find during my research of resourses for 
+JavaScript Algorithms and Data Structures :)
+
+
+https://www.udemy.com/course/data-structures-part-1-lognacademy/learn/lecture/2587894#notes
+
+https://github.com/trekhleb
+
+https://www.youtube.com/watch?v=t2CEgPsws3U
+
+https://www.techtarget.com/searchdatamanagement/definition/data-structure
+
+https://www.geeksforgeeks.org/data-structures/
+
+https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/
+ 
+https://www.youtube.com/watch?v=ec8vSKJuZTk&t=1s
+
+look also books!
+
+1. Start Article for data structe js
+2. Start Article for arrays js
+3.calculator also see in freecodecamp.org

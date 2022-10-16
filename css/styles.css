@@ -17,6 +17,7 @@ body {
 
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #F0B71C !important;
+    border-color: white !important;
 }
 
 .container-bg {
