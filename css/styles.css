@@ -34,4 +34,21 @@ body {
 
 .logo-style {
     font-weight: bold;
+    padding-left: 5rem;
 }
+
+.img-js {
+    transform: rotate(34deg);
+    height: 13em;
+    margin-left: 10em;
+    margin-top: 4em;
+}
+
+
+
+
+@media only screen and (max-width: 1000px) {
+    .logo-style {
+        padding-left: 3rem;
+    }
+  }
