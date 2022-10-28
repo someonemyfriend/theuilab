@@ -51,4 +51,10 @@ body {
     .logo-style {
         padding-left: 3rem;
     }
-  }
+}
+
+@media only screen and (max-width: 768px) {
+    .img-js {
+        display: none;
+    }
+}
